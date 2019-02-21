@@ -44,7 +44,7 @@
         <uses-sdk android:maxSdkVersion="27" android:minSdkVersion="19" android:targetSdkVersion="26" />
     </platform>
     <platform name="android">
-        <resource-file src="google-services.json" target="app/google-services.json" />
+        <resource-file src="config/google-services.json" target="app/google-services.json" />
     </platform>
     <platform name="android">
         <icon density="ldpi" height="36" platform="android" src="package-assets/36.png" width="36" />
